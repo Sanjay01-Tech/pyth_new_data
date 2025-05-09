@@ -3,3 +3,5 @@ this is a file and it will be used for coding samples\
 not dummy this is my new era
 
 #https://www.conventionalcommits.org/en/v1.0.0/ #this website is used to define commit messages in the future
+
+#https://www.kaggle.com/     #website for dataframes and sample dataset 
