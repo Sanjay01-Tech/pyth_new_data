@@ -1,4 +1,5 @@
-this is sample file and will be used for coding samples\
+this is a file and it will be used for coding samples\
 
+not dummy this is my new era
 
 #https://www.conventionalcommits.org/en/v1.0.0/ #this website is used to define commit messages in the future
