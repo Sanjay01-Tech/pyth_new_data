@@ -1,0 +1,4 @@
+this is sample file and will be used for coding samples\
+
+
+#https://www.conventionalcommits.org/en/v1.0.0/ #this website is used to define commit messages in the future
